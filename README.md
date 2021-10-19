@@ -1,3 +1,3 @@
-# fabriziocarpi.github.io
+# serhatbakirtas.github.io
 
-My personal website: https://fabriziocarpi.github.io/
+My personal website: https://serhatbakirtas.github.io/
